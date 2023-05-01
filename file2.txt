@@ -1,0 +1,2 @@
+first line data in file2
+another line of cod
